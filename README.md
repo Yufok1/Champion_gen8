@@ -58,7 +58,15 @@ python champion_gen8.py interface
 - The capsule writes local state beside itself while running. `.gitignore` fences those files off.
 - This repo is intentionally narrow. It is the capsule plus associative docs, not the whole surrounding control room.
 
+## Special Thanks
+
+Special thanks to Google DeepMind and the Dreamer authors for the world-model lineage behind the Dreamer lane carried in this capsule.
+
+Pointers:
+
+- DreamerV3 project page: https://danijar.com/project/dreamerv3/
+- Nature paper: https://www.nature.com/articles/s41586-025-08744-2
+
 ## Read Next
 
 - [`docs/ORIGIN_AND_CAPABILITY_OVERVIEW.md`](docs/ORIGIN_AND_CAPABILITY_OVERVIEW.md)
-

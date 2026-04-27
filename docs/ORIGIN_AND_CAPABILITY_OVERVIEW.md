@@ -58,6 +58,11 @@ Champion Gen8 carries, in one runtime surface:
 - export and carry-forward surfaces
 - operator-facing execution modes
 
+One important carried lane is the Dreamer world-model lineage. Special thanks to Google DeepMind and the Dreamer authors for that research direction. Public pointers:
+
+- DreamerV3 project page: https://danijar.com/project/dreamerv3/
+- Nature paper: https://www.nature.com/articles/s41586-025-08744-2
+
 ## What It Makes Possible
 
 Champion Gen8 makes it possible to present one bounded artifact that can support:
